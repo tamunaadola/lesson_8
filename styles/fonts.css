@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('../fonts/BrandonGrotesque-BoldItalic.eot');
+    src: url('../fonts/BrandonGrotesque-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BrandonGrotesque-BoldItalic.woff2') format('woff2'),
+        url('../fonts/BrandonGrotesque-BoldItalic.woff') format('woff'),
+        url('../fonts/BrandonGrotesque-BoldItalic.ttf') format('truetype'),
+        url('../fonts/BrandonGrotesque-BoldItalic.svg#BrandonGrotesque-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('../fonts/BrandonGrotesque-RegularItalic.eot');
+    src: url('../fonts/BrandonGrotesque-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BrandonGrotesque-RegularItalic.woff2') format('woff2'),
+        url('../fonts/BrandonGrotesque-RegularItalic.woff') format('woff'),
+        url('../fonts/BrandonGrotesque-RegularItalic.ttf') format('truetype'),
+        url('../fonts/BrandonGrotesque-RegularItalic.svg#BrandonGrotesque-RegularItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kazimir-RegularItalic';
+    src: url('../fonts/Kazimir-RegularItalic.eot');
+    src: url('../fonts/Kazimir-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kazimir-RegularItalic.woff2') format('woff2'),
+        url('../fonts/Kazimir-RegularItalic.woff') format('woff'),
+        url('../fonts/Kazimir-RegularItalic.ttf') format('truetype'),
+        url('../fonts/Kazimir-RegularItalic.svg#Kazimir-RegularItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Learning Curve';
+    src: url('../fonts/LearningCurve-Bold.eot');
+    src: url('../fonts/LearningCurve-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/LearningCurve-Bold.woff2') format('woff2'),
+        url('../fonts/LearningCurve-Bold.woff') format('woff'),
+        url('../fonts/LearningCurve-Bold.ttf') format('truetype'),
+        url('../fonts/LearningCurve-Bold.svg#LearningCurve-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
