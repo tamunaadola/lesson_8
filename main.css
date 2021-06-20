@@ -110,6 +110,7 @@ footer > h3 {
     margin-left: 31px;
 }
 .footer-nav{
+    margin-left: 422px;
     text-align: center;
     max-width: 275px;
     display: flex;
@@ -118,5 +119,5 @@ footer > h3 {
     font-family: 'Brandon Grotesque';
     justify-content: space-around;
     width: 100%;
-    left: 50%;
+
 }
